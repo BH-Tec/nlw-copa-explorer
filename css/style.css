@@ -8,17 +8,12 @@ ul {
   list-style: none;
 }
 
-header {
-  margin-top: 20px;
-  display: flex;
-  justify-content: center;
-}
-
 body {
   background-color: #121214;
   background-image: url(../assets/bg-green.svg);
   background-position-x: center;
   background-position-y: 55.6%;
+  // background-position-y: -715px;
 }
 
 body * {
@@ -32,6 +27,15 @@ body * {
 
 header {
   margin-bottom: 63px;
+  text-align: center;
+}
+
+#cards {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  gap: 32px;
 }
 
 .card {
