@@ -9,6 +9,10 @@
   <a href="#-license">📝 License</a>
 </p>
 
+<p align="center">
+  <img src="./assets/preview.jpg">
+<p>
+
 ## 💻 Projeto
 
 Projeto de calendário de jogos para a Copa do Mundo de 2022.
